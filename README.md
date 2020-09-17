@@ -6,7 +6,7 @@
 
  date    : 2020/09/16 
 
- update :
+ update : 2020/09/18
 
 ***
 
@@ -16,12 +16,10 @@ Rust + sqlite3 , sample app
 ***
 ### setup
 
-***
-### sample
-
 
 ***
 ### more
+https://note.com/knaka0209/n/n9ee8c64849c1
 
 ***
 
